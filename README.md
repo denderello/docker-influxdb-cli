@@ -1,7 +1,7 @@
 docker-influxdb-cli
 ===================
 
-influxdb-cli in a Docker container
+Packages [https://github.com/phstc/influxdb-cli](influxdb-cli) in a Docker container
 
 You can run it either using:
 
